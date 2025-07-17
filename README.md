@@ -1,6 +1,8 @@
 # 💼 Kevin Obeng – TechOps | DevOps | Support | Cloud Portfolio
 
-Welcome! I'm Kevin Obeng, a Resourceful and results-driven professional with proven experience in technical support, customer service, and operations across high-pressure, client-facing environments. Adept at resolving complex technical issues, delivering tailored solutions, and ensuring excellent customer satisfaction. Skilled in SQL, Linux, Salesforce, and ITIL-aligned service delivery, with a strong record of exceeding performance KPIs. A proactive communicator and dependable team player known for attention to detail, adaptability, and a consistent “get-it-done” attitude.
+Welcome! 
+
+I'm Kevin Obeng, a Resourceful and results-driven professional with proven experience in technical support, customer service, and operations across high-pressure, client-facing environments. Adept at resolving complex technical issues, delivering tailored solutions, and ensuring excellent customer satisfaction. Skilled in SQL, Linux, Salesforce, and ITIL-aligned service delivery, with a strong record of exceeding performance KPIs. A proactive communicator and dependable team player known for attention to detail, adaptability, and a consistent “get-it-done” attitude.
 
 
 ## 🌟 Projects
