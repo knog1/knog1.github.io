@@ -1,45 +1,66 @@
 # 💼 Kevin Obeng – TechOps | DevOps | Support | Cloud Portfolio
 
-Welcome! I'm Kevin Obeng, a Technical Support Engineer, DevOps, Cloud professional with a passion for solving problems, automating workflows, and improving systems performance. I specialize in supporting SaaS applications, managing Linux systems, and working with tools like ServiceNow, Salesforce, and Git.
+Welcome! I'm Kevin Obeng, a Resourceful and results-driven professional with proven experience in technical support, customer service, and operations across high-pressure, client-facing environments. Adept at resolving complex technical issues, delivering tailored solutions, and ensuring excellent customer satisfaction. Skilled in SQL, Linux, Salesforce, and ITIL-aligned service delivery, with a strong record of exceeding performance KPIs. A proactive communicator and dependable team player known for attention to detail, adaptability, and a consistent “get-it-done” attitude.
 
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
-### 🚀 [Log Monitor Automation](https://github.com/yourusername/project-link)
-A PowerShell tool that automates log scanning and alerting for distributed systems.
+### 🚀 [Airline Booking System](https://github.com/yourusername/project-link)
+Built an airline booking system in C#/.NET with user registration, payments, and testing, ensuring quality code, documentation, and smooth UX.
 
-- 🧰 Tech: PowerShell, Windows Event Logs
-- ✅ Automated monitoring of critical events
-- 🔧 Reduces manual error detection time
+:desktop_computer: Tech tools Used: C#, HTML/5, CSS, .NET
+:books: Documentation Plans Used: Use Cases, ERD, and Test Plans,
 
-### 📡 [Incident Resolution Dashboard](https://github.com/yourusername/project-link)
-Built a dashboard to track ticket resolution metrics and SLAs in real time.
+- Implementing critical features such as user registration, payment processing, and booking management.
+- Demonstrated strong problem-solving abilities by debugging and optimising system functionality, ensuring a smooth user experience.
+- Created comprehensive design documentation and conducted code reviews to maintain high standards.
+- Developed and executed Test plans and implemented **Unit Testing**
+- Contributed to code reviews, software standards and guidelines improvements
 
-- 🧰 Tech: Python, Flask, ServiceNow API
-- 📊 Shows MTTR, ticket volume trends, and assignment patterns
 
-### 🗃️ [Customer Data Integrity Checker](https://github.com/yourusername/project-link)
-Scripted tool for validating CRM data between frontend UI and backend DB.
+### 📡 [Second-hand Games Shop Application (Windows Form)](https://github.com/yourusername/project-link)
+Built a C# Windows Forms inventory app, optimised performance, and ensured maintainability with rigorous testing and code improvements.
 
-- 🧰 Tech: SQL, Salesforce, Bash
-- 🕵️ Found 97% of data mismatches in production
+:desktop_computer: Tech: C#, Windows Form, API
+
+- Developed a Windows Forms application for managing inventory and sales data using C# and object-oriented principles.
+- Enhanced application performance and ensured high maintainability through rigorous testing and code optimisation.
+
+
+### 📡 [Second-hand Games Shop Application (Windows Form)](https://github.com/yourusername/project-link)
+Built a C# Windows Forms inventory app, optimized performance, and ensured maintainability with rigorous testing and code improvements.
+
+:desktop_computer: Tech: C#, Windows Form, API
+
+- Developed a Windows Forms application for managing inventory and sales data using C# and object-oriented principles.
+- Enhanced application performance and ensured high maintainability through rigorous testing and code optimisation.
+
+
+### 📡 [Second-hand Games Shop Application (Windows Form)](https://github.com/yourusername/project-link)
+Built a C# Windows Forms inventory app, optimized performance, and ensured maintainability with rigorous testing and code improvements.
+
+:desktop_computer: Tech: C#, Windows Form, API
+
+- Developed a Windows Forms application for managing inventory and sales data using C# and object-oriented principles.
+- Enhanced application performance and ensured high maintainability through rigorous testing and code optimisation.
 
 ---
 
 ## 🧰 Core Skills
 
-- 💻 Technical Support (1st–3rd Line) | Root Cause Analysis | SLA Compliance
-- 🛠️ DevOps Foundations: Bash, PowerShell, Git, CI/CD Basics
-- ☁️ Familiar with Linux, Windows Server, AWS, Azure fundamentals
-- 🛎️ Platforms: ServiceNow, Salesforce, Jira, SQL, GitHub
+- **PROGRAMMING**: C#, HTML/5, CSS, .NET, Python
+- **DATABASES**: SQL, MongoDB
+- **OS**: Windows OS, MAC OS, UNIX OS, LINUX OS,
+- **APPLICATION SOFTWARES/SYSTEMS**: Microsoft Visual Studio, Office365, i.e Excel, Microsoft Project, Enterprise Architect, GitHub, Jira, Active Directory, Salesforce (CRM)
+- **CORE SKILLS**: Troubleshooting, Database Design, Teamwork, Critical Thinking, Leadership, Reporting & Documentation, Disaster Recovery, Problem Solving, Interpersonal, Communication, Management, Project Management (Project Planning, Budget Planning, Task Management etc.)
+
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kevin-obeng-a0232b1a8/)
 - ✉️ [Email](mailto:kevinobeng@hotmail.com)
-- 🌍 [Live Portfolio Website](https://yourusername.github.io/your-repo-name)
 
 ---
 
