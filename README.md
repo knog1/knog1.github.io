@@ -1,4 +1,4 @@
-# 💼 Kevin Obeng – TechOps | DevOps | Support | Cloud Portfolio
+# 💼 Kevin Obeng – TechOps | DevOps | Support | Cloud
 
 Welcome! 
 
